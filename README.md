@@ -1,16 +1,4 @@
 # aura-beauty-store
 Aura is an e-commerce website for cosmetic products, developed using PHP, MySQL, and Bootstrap.
 
-Client Features:
-  Browse products by category .
-  Add products to cart and manage the shopping cart.
-  Create and manage personal accounts.
-  View product details, descriptions, and images.
-
-Admin Features:
-  Manage products (add, edit, delete).
-  Manage categories.
-  View and manage customer accounts.
-  Monitor and update stock levels.
-  Handle orders and update order statuses.
-  Access sales and inventory reports.
+For clients, the site offers the ability to browse products by category, add items to the cart and manage their shopping experience, create and manage personal accounts, and view detailed product information, including descriptions and images. Admins have a comprehensive set of tools to manage the site, including adding, editing, and deleting products, managing categories, overseeing and managing customer accounts, monitoring and updating stock levels, handling orders and updating their statuses, and accessing detailed sales and inventory reports.
