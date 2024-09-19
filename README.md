@@ -32,3 +32,6 @@ Windows 11, PHP, MySql, HTML5, CSS3, JavaScript, Bootstrap, Vs code, Laragon, Gi
 
 ## Statistics Interface
 ![Statistics Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Statistics.png)
+
+
+Feel free to explore each interface to see the features and functionality of the Aura e-commerce project ❤️
