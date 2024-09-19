@@ -6,21 +6,29 @@ For clients, the site offers the ability to browse products by category, add ite
 ## Environnement Technique :
 Windows 11, PHP, MySql, HTML5, CSS3, JavaScript, Bootstrap, Vs code, Laragon, GitHub, 
 ## INTERFACE : 
-- Authentication interface:
-(https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Auth.png)
-- Registry interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Register.png)
-- Home interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Home.png)
-- Ordering interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Order.png)
-- User management interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Users.png)
-- Order management interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Paniers.png)
-- Category management interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Categories.png)
-- Inventory management interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Stocks.png)
-- Statistics interface:
-  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Statistics.png)
+## Authentication Interface
+![Authentication Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Auth.png)
+
+## Registry Interface
+![Registry Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Register.png)
+
+## Home Interface
+![Home Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Home.png)
+
+## Ordering Interface
+![Ordering Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Order.png)
+
+## User Management Interface
+![User Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Users.png)
+
+## Order Management Interface
+![Order Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Paniers.png)
+
+## Category Management Interface
+![Category Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Categories.png)
+
+## Inventory Management Interface
+![Inventory Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Stocks.png)
+
+## Statistics Interface
+![Statistics Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Statistics.png)
