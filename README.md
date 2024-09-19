@@ -9,18 +9,18 @@ Windows 11, PHP, MySql, HTML5, CSS3, JavaScript, Bootstrap, Vs code, Laragon, Gi
 - Authentication interface:
 (https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Auth.png)
 - Registry interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Register.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Register.png)
 - Home interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Home.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Home.png)
 - Ordering interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Order.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Order.png)
 - User management interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Users.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Users.png)
 - Order management interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Paniers.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Paniers.png)
 - Category management interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Categories.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Categories.png)
 - Inventory management interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Stocks.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Stocks.png)
 - Statistics interface:
-  (https://github.com/yessminbd/aura-beauty-store/aura/interfaces/Statistics.png)
+  (https://github.com/yessminbd/aura-beauty-store/tree/main/aura/interfaces/Statistics.png)
