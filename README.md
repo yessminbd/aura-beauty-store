@@ -6,14 +6,15 @@ For clients, the site offers the ability to browse products by category, add ite
 ## Environnement Technique :
 Windows 11, PHP, MySql, HTML5, CSS3, JavaScript, Bootstrap, Vs code, Laragon, GitHub, 
 ## INTERFACE : 
+## Home Interface
+![Home Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Home.png)
+
 ## Authentication Interface
 ![Authentication Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Auth.png)
 
 ## Registry Interface
 ![Registry Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Register.png)
 
-## Home Interface
-![Home Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Home.png)
 
 ## Ordering Interface
 ![Ordering Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Order.png)
