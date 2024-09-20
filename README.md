@@ -9,29 +9,29 @@ Windows 11, PHP, MySql, HTML5, CSS3, JavaScript, Bootstrap, Vs code, Laragon, Gi
 ### Home Interface
 ![Home Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Home.png)
 
-## Authentication Interface
+### Authentication Interface
 ![Authentication Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Auth.png)
 
-## Registry Interface
+### Registry Interface
 ![Registry Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Register.png)
 
 
-## Ordering Interface
+### Ordering Interface
 ![Ordering Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Order.png)
 
-## User Management Interface
+### User Management Interface
 ![User Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Users.png)
 
-## Order Management Interface
+### Order Management Interface
 ![Order Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Paniers.png)
 
-## Category Management Interface
+### Category Management Interface
 ![Category Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Categories.png)
 
-## Inventory Management Interface
+### Inventory Management Interface
 ![Inventory Management Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Stocks.png)
 
-## Statistics Interface
+### Statistics Interface
 ![Statistics Interface](https://github.com/yessminbd/aura-beauty-store/blob/main/aura/interfaces/Statistics.png)
 
 
